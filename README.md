@@ -1,12 +1,13 @@
-# Studio
+# aavion Studio (DISCONTINUED)
 
 > **Version**: 0.2.4  
-> **Status**: Active development  
+> **Status**: Discontinued  
 > **Updated**: 2026-06-14  
 > **Owner**: Dominik Letica  
 > **Purpose:** A Symfony-based CMS foundation for structured, extensible project websites.  
 
-**Note:** Studio is still in active development and is not ready for production use yet.
+> [!CAUTION]
+> Studio was still in active development and was never ready for production use.
 
 Studio is a CMS foundation for websites that need more than a pile of static pages: structured content, thoughtful access control, package-based customization, and admin workflows that stay understandable when something goes wrong.
 
